@@ -1,3 +1,283 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+
+/* ================================
+   LINKS
+   ================================ */
+
+a.internal {
+  color: #b2577f;
+  background-color: transparent;
+  border: none;
+  box-shadow: none;
+}
+
+a.external {
+  color: #eedb91;
+  background-color: transparent;
+  border: none;
+  box-shadow: none;
+}
+
+a.internal:hover {
+  color: #d74794;
+  background-color: rgba(215, 71, 148, 0.08);
+  border: none;
+  box-shadow: none;
+}
+
+a.external:hover {
+  color: #ffde59;
+  background-color: transparent;
+  border: none;
+  box-shadow: none;
+}
+
+a:hover {
+  color: #d74794;
+}
+
+/* ================================
+   HIGHLIGHTS
+   ================================ */
+
+::selection {
+  background: #eedb91;
+  color: #000;
+}
+
+mark {
+  background-color: #73f09d;
+  color: #000;
+}
+
+
+/* ================================
+   TYPOGRAPHY
+   ================================ */
+
+body {
+  font-size: 1.05rem;
+  line-height: 2.0;
+}
+
+.center p {
+  margin-bottom: 1.25rem;
+}
+
+
+/* ================================
+   HEADERS
+   ================================ */
+
+/* No custom header color */
+.center h1,
+.center h2,
+.center h3,
+.center h4,
+.center h5,
+.center h6 {
+  color: inherit;
+}
+
+
+/* ================================
+   PAGE HEADER / NOTE TITLE
+   ================================ */
+
+.center .page-title {
+  color: #d74794;
+}
+
+
+/* ================================
+   VAULT TITLE / "QUARTZ 5"
+   ================================ */
+
+/* Main Quartz/vault title */
+.left .page-title,
+.left .page-title a,
+.left .page-header,
+.left .page-header a,
+header .page-title,
+header .page-title a,
+header a[href="."] {
+  color: #b2577f !important;
+}
+
+/* Catch the actual home/vault link wherever Quartz places it */
+a[href="."] {
+  color: #b2577f !important;
+}
+
+
+/* ================================
+   EXPLORER
+   ================================ */
+
+.explorer-content {
+  line-height: 1.7;
+}
+
+.explorer-content li {
+  margin-bottom: 0.35rem;
+}
+
+/* Explorer folders */
+.explorer-content .folder-title {
+  color: #b2577f;
+}
+
+/* Selected note */
+.explorer-content a.active {
+  color: #eedb91;
+}
+
+
+/* ================================
+   HORIZONTAL LINES
+   ================================ */
+
+hr {
+  border-color: #47d7b1;
+}
+
+
+/* ================================
+   GRAPH VIEW
+   ================================ */
+
+/* Graph links */
+.graph path,
+.graph .link {
+  stroke: #d74794;
+}
+
+/* Graph dots */
+.graph circle,
+.graph .node {
+  fill: #b2577f;
+}
+
+/* Graph dot hover */
+.graph circle:hover,
+.graph .node:hover {
+  fill: #d74794;
+}
+
+
+/* ================================
+   FOOTER
+   ================================ */
+
+footer a {
+  color: #eedb91;
+}
+
+footer a:hover {
+  color: #ffde59;
+}
+
+
+/* ================================
+   DARK MODE
+   ================================ */
+
+[saved-theme="dark"] {
+  color: #eda2c0;
+}
+
+
+/* ================================
+   LIGHT MODE
+   ================================ */
+
+[saved-theme="light"] {
+  background-color: #ccbac9;
+}
+
+ /* ================================
+    REMAINING QUARTZ DEFAULT COLORS
+    ================================ */
+
+ /* Top header / navigation */
+.page-header,
+header,
+.topbar {
+  border-color: #b2577f !important;
+}
+
+.page-header a,
+header a,
+.topbar a {
+  color: #b2577f !important;
+}
+
+
+/* Graph container / graph bar */
+.graph,
+.graph-container,
+.graph-wrapper {
+  border-color: #d74794 !important;
+}
+
+.graph-title,
+.graph-container h2,
+.graph-container h3 {
+  color: #d74794 !important;
+}
+
+
+/* Blockquote bar */
+blockquote {
+  border-left-color: #eedb91 !important;
+}
+
+/* ================================
+   COLLAPSIBLE SIDE COLUMNS
+   ================================ */
+
+/* Left column contents start hidden */
+.left > * {
+  opacity: 0;
+  transition: opacity 0.25s ease;
+}
+
+/* Reveal everything in the left column */
+.left:hover > * {
+  opacity: 1;
+}
+
+
+/* Right column contents start hidden */
+.right > * {
+  opacity: 0;
+  transition: opacity 0.25s ease;
+}
+
+/* Reveal everything in the right column */
+.right:hover > * {
+  opacity: 1;
+}
+
+
+/* ================================
+   BODY TEXT SPACING
+   ================================ */
+
+.center {
+  font-size: 1.05rem;
+  line-height: 1.85;
+  letter-spacing: 0.015em;
+}
+
+
+/* ================================
+   PAGE TITLE
+   ================================ */
+
+/* Keep page title spacing independent from body text */
+.center .page-title {
+  line-height: 1.2;
+  letter-spacing: normal;
+}
