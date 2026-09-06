@@ -233,51 +233,70 @@ blockquote {
   border-left-color: #eedb91 !important;
 }
 
-/* ================================
-   COLLAPSIBLE SIDE COLUMNS
-   ================================ */
-
-/* Left column contents start hidden */
-.left > * {
-  opacity: 0;
-  transition: opacity 0.25s ease;
-}
-
-/* Reveal everything in the left column */
-.left:hover > * {
-  opacity: 1;
-}
-
-
-/* Right column contents start hidden */
-.right > * {
-  opacity: 0;
-  transition: opacity 0.25s ease;
-}
-
-/* Reveal everything in the right column */
-.right:hover > * {
-  opacity: 1;
-}
-
 
 /* ================================
-   BODY TEXT SPACING
+   TYPOGRAPHY HIERARCHY
    ================================ */
 
+/* Body text */
 .center {
-  font-size: 1.05rem;
+  font-size: 1rem;
   line-height: 1.85;
   letter-spacing: 0.015em;
 }
 
 
 /* ================================
-   PAGE TITLE
+   HEADERS
    ================================ */
 
-/* Keep page title spacing independent from body text */
+/* Note title */
 .center .page-title {
+  font-size: 2rem;
   line-height: 1.2;
   letter-spacing: normal;
 }
+
+/* Major sections */
+.center h2 {
+  font-size: 1.5rem;
+  line-height: 1.3;
+}
+
+/* Subsections */
+.center h3 {
+  font-size: 1.25rem;
+  line-height: 1.4;
+}
+
+.center h4 {
+  font-size: 1.1rem;
+  line-height: 1.4;
+}
+
+.center h5,
+.center h6 {
+  font-size: 1rem;
+  line-height: 1.4;
+}
+
+
+/* ================================
+   EXPLORER TYPOGRAPHY
+   ================================ */
+
+/* Main folders */
+.explorer-content .folder-title {
+  font-size: 1.05rem;
+}
+
+/* Subfolders */
+.explorer-content .folder-title .folder-title {
+  font-size: 1rem;
+}
+
+/* Notes / files inside folders */
+.explorer-content li {
+  font-size: 0.9rem;
+}
+
