@@ -8,7 +8,7 @@ title: Welcome!
 ---
 
 ---
-Hi I'm [[Jayda Simmons]]! ! !
+Hi I'm [[Jayda Simmons]]! hey
 
 This is my [[digital garden]]; I spend the majority of my digital life on this ever-growing project so it's about time to make it a little less personal by [[working with the garage door open]].
 
