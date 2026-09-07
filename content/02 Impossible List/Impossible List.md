@@ -1,7 +1,5 @@
 ---
 cssclasses:
-  - banner
-  - banner-fade
 created:
 aliases:
 tags:
@@ -13,7 +11,6 @@ tags:
 *All goals deserve a fighting chance to win. There for I push doubt and fear to the side and fight for them all. No dream is to small and surly no dream is to big.*
 
 ---
-![[Pasted image 20260803164733.png|banner]]
 Some may say this sounds dramatic or unsettling but at times [[I think about my last moment here on Earth.]] I wonder what I'm doing, where I'm at in life. I even wonder what my thoughts will be.
 
 Although I can't predict any of those things I do know I would hate to be in a state full of [[regret]]. That's why I find it so important to live an intentional and [[purposeful life]]. I want to be fulfilled with my accomplishments, The ones I got up time and time again and fought for. And my moments of [[failure]], I want to smile at the thought of me trying.
