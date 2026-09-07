@@ -1,0 +1,15 @@
+views:
+  - type: cards
+    name: View
+    filters:
+      and:
+        - file.folder == "01 Public/04 Library/Books"
+    order:
+      - title
+      - author
+      - rating
+    image: note.cover
+    imageAspectRatio: 1.5
+    cardSize: 290
+  - type: table
+    name: View 2
