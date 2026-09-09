@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: jaydasimmons.com
+  baseUrl: garden.jaydasimmons.com
   ignorePatterns:
     - private
     - templates
