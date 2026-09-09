@@ -7,6 +7,8 @@ tags:
   - digitalgarden
 ---
 
+> (. ❛ ᴗ ❛.)  *It's a little messy but that's the point. It's all about breaking free from structure and allowing yourself to just create.*
+
 ---
 Learning about digital gardening as an avid journaler is like finding a gold mine. Think common placing, meets the notes app, meets journaling, meets the [[indie web]]. 
 
@@ -29,4 +31,12 @@ Don't think of the writing as post or articles; think notes, rough drafts even. 
 
 And that's the thing with digital gardening, as you write, you find phrases within your writing that you want to later dive deeper into, which can do wonders for exploring one topic in depth.
 
+---
+### ★ What My Garden's About
+
+My garden is centered around [[training my mind]] and developing what I call my [[personal philosophy]].
+
+I’m fascinated by what becomes possible when we take an active role in deciding how we want to think and live. 
+
+I use this garden to explore that possibility and, every once in a while, watch something impossible unfold.
 

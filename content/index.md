@@ -12,7 +12,11 @@ Hi I'm [[Jayda Simmons]]!
 
 This is my [[digital garden]]; I spend the majority of my digital life on this ever-growing project so it's about time to make it a little less personal by [[working with the garage door open]].
 
-I dedicate this space to [[training my mind]]. But it's also where I watch impossible things unfold. 
+I dedicate this space to [[training my mind]] and developing what I call my [[personal philosophy]].
+
+I’m fascinated by what becomes possible when we take an active role in deciding how we want to think and live. 
+
+I use this garden to explore that possibility and, every once in a while, watch something impossible unfold.
 ## → [[Start Exploring Here!]] ←
 
 ---
@@ -24,6 +28,5 @@ I dedicate this space to [[training my mind]]. But it's also where I watch impos
 ![[Revisit My Garden Every 14th]]
 
 ---
-*(This site was created for ME! Nothing here is legal advice; it's MY beliefs based of the research I'VE gathered.)* - to satisfy Uncle Sam :)
-
+_This site was created for ME! Everything here reflects MY thoughts, beliefs, and interpretations based on the research I’VE gathered. Take what resonates, question what doesn’t :)_
 
