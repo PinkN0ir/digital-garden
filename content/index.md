@@ -17,11 +17,11 @@ I dedicate this space to [[training my mind]]. But it's also where I watch impos
 
 ---
 
-![[Updates#Most Recent Update!]]
+![[Stream of Consciousness#Stream of Consciousness]]
 
 ---
 
-![[Stream of Consciousness#Stream of Consciousness]]
+![[Revisit My Garden Every 14th]]
 
 ---
 *(This site was created for ME! Nothing here is legal advice; it's MY beliefs based of the research I'VE gathered.)* - to satisfy Uncle Sam :)
