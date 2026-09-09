@@ -1,0 +1,13 @@
+views:
+  - type: cards
+    name: View
+    filters:
+      and:
+        - file.folder == "01 Public/01 Field Notes"
+        - file.tags.contains("digitalgarden")
+    order:
+      - file.name
+      - file.ctime
+    cardSize: 550
+  - type: table
+    name: Table

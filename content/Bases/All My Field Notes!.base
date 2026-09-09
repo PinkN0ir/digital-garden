@@ -1,0 +1,18 @@
+views:
+  - type: cards
+    name: View
+    filters:
+      and:
+        - file.folder == "01 Public/01 Field Notes"
+        - file.name != "01 Field Notes - Homepage"
+        - '!file.tags.contains("bases")'
+    groupBy:
+      property: file.tags
+      direction: ASC
+    order:
+      - file.name
+      - file.ctime
+    sort: []
+    cardSize: 550
+  - type: table
+    name: Table

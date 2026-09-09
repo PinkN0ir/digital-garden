@@ -1,0 +1,13 @@
+views:
+  - type: cards
+    name: View
+    filters:
+      and:
+        - file.name.startsWith("Bible Study")
+        - file.folder == "01 Public/01 Field Notes"
+    order:
+      - file.name
+      - file.ctime
+    cardSize: 350
+  - type: table
+    name: Table

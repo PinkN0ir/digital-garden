@@ -4,6 +4,7 @@ created:
 updated:
 aliases:
 tags:
+  - bases
 ---
 ---
 
