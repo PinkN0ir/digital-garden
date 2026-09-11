@@ -25,6 +25,7 @@ I use this garden to explore that possibility and, every once in a while, watch 
 ![[Stream of Consciousness#Stream of Consciousness]]
 
 ---
+[[Your RSVP is almost official!]]
 
 ![[Revisit My Garden Every 14th]]
 

@@ -1,5 +1,5 @@
 ---
-unlisted: "true"
+unlisted:
 ---
 
 **Check your inbox for a confirmation email from me and confirm your RSVP.** If it wandered off, check your Promotions or Spam folder too.
