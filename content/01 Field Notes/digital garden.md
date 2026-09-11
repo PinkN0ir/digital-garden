@@ -7,7 +7,7 @@ tags:
   - digitalgarden
 ---
 
-> (. ❛ ᴗ ❛.)  *It's a little messy but that's the point. It's all about breaking free from structure and allowing yourself to just create.*
+> (. ❛ ᴗ ❛.)  *It's a little messy but that's the point. It's all about breaking free from structure and allowing yourself to just write.*
 
 ---
 Learning about digital gardening as an avid journaler is like finding a gold mine. Think common placing, meets the notes app, meets journaling, meets the [[indie web]]. 

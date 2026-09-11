@@ -32,4 +32,3 @@ Lay your problems, wounds, and fears before God, and ask for His guidance. And l
 
 When we allow God to lead, He will provide us with direction, resources, and words of wisdom.
 
----
