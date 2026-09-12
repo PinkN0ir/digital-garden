@@ -40,3 +40,9 @@ I’m fascinated by what becomes possible when we take an active role in decidin
 
 I use this garden to explore that possibility and, every once in a while, watch something impossible unfold.
 
+---
+### 404 Pages 
+
+If you run into a 404 page, “no data found,” or something that looks unfinished, I know! It usually just means there’s a private note behind it that I’m still working on making public and easier to explore.
+
+*Consider it part of watching the garden grow in real time. :)*

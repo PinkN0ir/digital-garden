@@ -29,5 +29,4 @@ I use this garden to explore that possibility and, every once in a while, watch 
 ![[Revisit My Garden Every 14th]]
 
 ---
-_This site was created for ME! Everything here reflects MY thoughts, beliefs, and interpretations based on the research I’VE gathered. Take what resonates, question what doesn’t :)_
-
+> If you run into a 404 page, “no data found,” or something that looks unfinished, I know! It usually just means there’s a private note behind it that I’m still working on making public and easier to explore. 
