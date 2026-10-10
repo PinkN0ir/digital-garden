@@ -1,13 +1,11 @@
 ---
 cssclasses:
-  - banner
-  - banner-fade
 created:
 updated:
 aliases:
 tags:
 ---
-![[Pasted image 20260812075946.png|banner]]
+
 
 ---
 Media, books, sources; they all play a big role in what we believe in. That's why [[consumption should be done intentionally]]; it's important to protect what knowledge we consume. 
@@ -25,8 +23,7 @@ But learning never stops at consuming. When we just consume we can easily fall i
 
 
 ---
-### Bookcase
+### 📚Bookcase
 
-![[01 Public/04 Library/Book View.base|Book View]]
+![[01 Public/04 Library/Book View.base]]
 
----
