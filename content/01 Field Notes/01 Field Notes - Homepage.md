@@ -25,14 +25,16 @@ When I'm not pressed for time and my mind is clear, I return to the notes I've a
 
     const content = await response.json();
 
-    const notes = Object.entries(content).filter(([slug]) => {
-      const path = slug.toLowerCase().replace(/^\/|\/$/g, "");
+    
+const notes = Object.entries(content).filter(([slug]) => {
+  const path = slug.toLowerCase().replace(/^\/|\/$/g, "");
 
-      return (
-        path.startsWith("01-field-notes/") &&
-        path !== "01-field-notes/01-field-notes---homepage"
-      );
-    });
+  return (
+    path.startsWith("01-field-notes/") &&
+    !path.endsWith("01-field-notes---homepage")
+  );
+});
+
 
     document.getElementById("field-note-count").textContent = notes.length;
   } catch (error) {
