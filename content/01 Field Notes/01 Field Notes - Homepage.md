@@ -14,12 +14,25 @@ When I'm not pressed for time and my mind is clear, I return to the notes I've a
 
 > [!example] ### [[All My Field Notes!]] ←
 
-```dataviewjs
-let notes = dv.pages('"01 Public/01 Field Notes"')
-    .where(p => p.file.name !== "01 Field Notes - Homepage");
 
-dv.paragraph(`Since August of 2026, I have written **${notes.length}** Field Notes!`);
-```
+
+<p>Since August of 2026, I have written <strong><span id="field-note-count">...</span></strong> Field Notes!</p>
+
+<script>
+(async () => {
+  const response = await fetch("/static/contentIndex.json");
+  const content = await response.json();
+
+  const notes = Object.values(content).filter(page =>
+    page.slug.startsWith("01 Public/01 Field Notes/") &&
+    page.slug !== "01 Public/01 Field Notes/01 Field Notes - Homepage"
+  );
+
+  document.getElementById("field-note-count").textContent = notes.length;
+})();
+</script>
+
+
 Because these notes started off as fleeting ideas, the topics of these notes can range across any category that could have sparked my interest. When I have a [[gut feeling]] that I have to capture the thoughts in my mind, I do just that, no matter the topic. I take a gut feeling as a sign and I run with it. When a fact, quote, or idea sticks out to me, that's my intuition telling me it will later provide value.
 
 ---

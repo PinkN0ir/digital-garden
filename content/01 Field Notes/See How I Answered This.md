@@ -13,7 +13,7 @@ Behind closed doors, I was passionate about all my little creative endeavors and
 
 As of today, I can admit that both versions of me are still alive. The difference is that I have become hyperaware of when I am choosing one over the other.
 
-Writing [_The Ballerina Who Wore Blue_](https://chatgpt.com/c/I%20Published%20a%20Children's%20Book!) played a major role in that awareness. I had written an entire story about a character learning to embrace what made her different instead of changing herself to fit in. Keeping that message at the forefront of my mind eventually forced me to ask whether I was actually living by the same lesson I was sharing with others.
+Writing [_The Ballerina Who Wore Blue_](https://www.amazon.com/dp/B0FR3J34ZB?lv=shuf&psc=1&channelId=751&ref_=cm_sw_r_cp_ud_ct_ZXPB0CK4QZ7NDHR7M2YE&plpRedirect=mhFallback) played a major role in that awareness. I had written an entire story about a character learning to embrace what made her different instead of changing herself to fit in. Keeping that message at the forefront of my mind eventually forced me to ask whether I was actually living by the same lesson I was sharing with others.
 
 The message became more than something I wanted my readers to understand. It became something I needed to practice myself.
 
