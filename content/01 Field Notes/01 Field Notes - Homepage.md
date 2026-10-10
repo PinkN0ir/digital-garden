@@ -15,20 +15,30 @@ When I'm not pressed for time and my mind is clear, I return to the notes I've a
 > [!example] ### [[All My Field Notes!]] ←
 
 
-
 <p>Since August of 2026, I have written <strong><span id="field-note-count">...</span></strong> Field Notes!</p>
 
 <script>
 (async () => {
-  const response = await fetch("/static/contentIndex.json");
-  const content = await response.json();
+  try {
+    const response = await fetch("/static/contentIndex.json");
+    if (!response.ok) throw new Error("Index unavailable");
 
-  const notes = Object.values(content).filter(page =>
-    page.slug.startsWith("01 Public/01 Field Notes/") &&
-    page.slug !== "01 Public/01 Field Notes/01 Field Notes - Homepage"
-  );
+    const content = await response.json();
 
-  document.getElementById("field-note-count").textContent = notes.length;
+    const notes = Object.entries(content).filter(([slug]) => {
+      const path = slug.toLowerCase().replace(/^\/|\/$/g, "");
+
+      return (
+        path.startsWith("01-field-notes/") &&
+        path !== "01-field-notes/01-field-notes---homepage"
+      );
+    });
+
+    document.getElementById("field-note-count").textContent = notes.length;
+  } catch (error) {
+    document.getElementById("field-note-count").textContent = "?";
+    console.error("Could not count Field Notes:", error);
+  }
 })();
 </script>
 
