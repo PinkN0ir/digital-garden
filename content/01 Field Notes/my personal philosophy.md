@@ -16,4 +16,4 @@ These notes make up my ever-growing [[personal philosophy]].  They are usually 
 
 ![[Death is Motivation.base]]
 
----
+

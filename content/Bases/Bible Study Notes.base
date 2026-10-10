@@ -7,5 +7,4 @@ views:
         - file.tags.contains("biblestudy")
     order:
       - file.name
-      - file.ctime
     cardSize: 350

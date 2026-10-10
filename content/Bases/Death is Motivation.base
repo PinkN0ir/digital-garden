@@ -6,7 +6,6 @@ views:
         - file.tags.contains("death")
     order:
       - file.name
-      - file.ctime
     cardSize: 590
   - type: table
     name: Table
