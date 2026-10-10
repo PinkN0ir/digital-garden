@@ -25,5 +25,5 @@ But learning never stops at consuming. When we just consume we can easily fall i
 ---
 ### 📚Bookcase
 
-![[01 Public/04 Library/Book View.base]]
+![[Book View.base]]
 
