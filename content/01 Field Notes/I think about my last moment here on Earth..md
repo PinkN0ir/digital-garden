@@ -9,6 +9,7 @@ aliases:
   - I want my impact to outlive me.
 tags:
   - death
+  - fieldnotes
 ---
 ![[Pasted image 20260810040758.png|banner]]
 

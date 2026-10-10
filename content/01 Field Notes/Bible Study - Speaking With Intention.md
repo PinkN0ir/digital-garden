@@ -5,6 +5,7 @@ updated:
 aliases:
 tags:
   - bible-study
+  - fieldnotes
 ---
 
 ---

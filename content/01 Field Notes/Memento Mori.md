@@ -7,6 +7,7 @@ updated:
 aliases:
 tags:
   - death
+  - fieldnotes
 description: " Memento mori is a Latin phrase meaning “remember you must die.” It's used as a reminder of morality and that no one can escape death."
 ---
 ![[Pasted image 20260802150124.png|banner]]

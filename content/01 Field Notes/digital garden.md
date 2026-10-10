@@ -5,6 +5,7 @@ updated:
 aliases:
 tags:
   - digitalgarden
+  - fieldnotes
 ---
 
 > (. ❛ ᴗ ❛.)  *It's a little messy but that's the point. It's all about breaking free from structure and allowing yourself to just write.*

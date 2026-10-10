@@ -6,6 +6,7 @@ created:
 updated:
 aliases:
 tags:
+  - fieldnotes
 ---
 ![[Pasted image 20260812092116.png|banner]]
 

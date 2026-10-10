@@ -7,6 +7,7 @@ updated:
 aliases:
 tags:
   - digitalgarden
+  - fieldnotes
 ---
 ![[Pasted image 20260813181902.png|banner]]
 
