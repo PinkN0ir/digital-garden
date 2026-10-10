@@ -3,7 +3,6 @@ views:
     name: View
     filters:
       and:
-        - file.folder == "01 Public/01 Field Notes"
         - file.tags.contains("death")
     order:
       - file.name

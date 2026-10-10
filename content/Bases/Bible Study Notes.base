@@ -1,20 +1,10 @@
 views:
-  - type: table
-    name: Table
-    filters:
-      and:
-        - file.tags.contains("bible-study")
-        - file.folder == "01 Public/01 Field Notes"
-    order:
-      - file.name
-      - file.mtime
-      - file.ctime
   - type: cards
     name: View
     filters:
       and:
         - file.name.startsWith("Bible Study")
-        - file.folder == "01 Public/01 Field Notes"
+        - file.tags.contains("biblestudy")
     order:
       - file.name
       - file.ctime

@@ -8,6 +8,7 @@ aliases:
 tags:
   - stevejobs
   - apple
+  - bookreflections
 title: Steve Jobs - Think Differently
 cover: Pasted image 20260802122500.png
 totalPage: 175

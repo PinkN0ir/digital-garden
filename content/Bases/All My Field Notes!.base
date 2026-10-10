@@ -11,6 +11,5 @@ views:
       direction: ASC
     order:
       - file.name
-      - file.ctime
     sort: []
     cardSize: 550

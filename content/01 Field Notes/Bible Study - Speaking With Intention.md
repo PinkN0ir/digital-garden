@@ -4,8 +4,8 @@ created:
 updated:
 aliases:
 tags:
-  - bible-study
   - fieldnotes
+  - biblestudy
 ---
 
 ---

@@ -3,7 +3,7 @@ views:
     name: View
     filters:
       and:
-        - file.folder == "01 Public/04 Library/Books"
+        - file.tags.contains("bookreflections")
     order:
       - title
       - author
