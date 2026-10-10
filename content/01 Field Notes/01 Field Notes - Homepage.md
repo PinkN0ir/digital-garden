@@ -12,8 +12,7 @@ Personal [[Field Notes]] start off as rough drafts. They often look like ungramm
 
 When I'm not pressed for time and my mind is clear, I return to the notes I've accumulated. That's when I'm able to turn my raw notes into a full-fledged abstract concept.
 
-> [!example] ### [[All My Field Notes!]] ←
-
+ ### [[All My Field Notes!]] ←
 
 <p>Since August of 2026, I have written <strong><span id="field-note-count">...</span></strong> Field Notes!</p>
 
