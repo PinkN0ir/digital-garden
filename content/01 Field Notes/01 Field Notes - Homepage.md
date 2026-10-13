@@ -58,8 +58,8 @@ Because these notes started off as fleeting ideas, the topics of these notes can
 
 ---
 
-> [!example] ### [[my personal philosophy|My Personal Philosophy Notes]] ←
+ ### [[my personal philosophy|My Personal Philosophy Notes]] ←
 
 *These notes sum up the beliefs, values, and principles and I choose to live by. The more I live the more my personal philosophy evolves with me.*
 
----
+
