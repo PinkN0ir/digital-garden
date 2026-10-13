@@ -8,8 +8,8 @@ tags:
 ---
 ### Stream of Consciousness
 
-> [!quote] **13 OCT. 2026**
->![[Pin Board (7).png|300]]
+> [!quote] **06 OCT. 2026**
+> Today is my 1 year anniversary at my job; yesterday I was promoted. 
 
 ---
 ### Conscious Log
