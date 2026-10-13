@@ -4,13 +4,12 @@ created:
 updated:
 aliases:
 tags:
-unlisted: "true"
 ---
 ---
 ### Stream of Consciousness
 
-> [!quote] **17 AUG. 2026**
->> *"...those who are willing to think differently and act on that indifference go on to make a difference in the world."* | [[Steve Jobs - Think Differently]]
+> [!quote] **13 OCT. 2026**
+>![[Pin Board (7).png|300]]
 
 ---
 ### Conscious Log
@@ -19,6 +18,10 @@ unlisted: "true"
 ---
 #### **August 2026**
 
+***08/20***  ᓚᘏᗢ
+> *"...those who are willing to think differently and act on that indifference go on to make a difference in the world."* 
+ 
+[[Steve Jobs - Think Differently]]
 
 ***08/ 17***  ᓚᘏᗢ
 >"Don't you be afraid  
