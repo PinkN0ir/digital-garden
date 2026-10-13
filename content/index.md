@@ -25,6 +25,9 @@ I use this garden to explore that possibility and, every once in a while, watch 
 ![[Stream of Consciousness#Stream of Consciousness]]
 
 ---
+![[Updates#Most Recent Update!]]
+
+---
 
 ![[Revisit My Garden Every 14th]]
 

@@ -1,3 +1,6 @@
+---
+draft: "true"
+---
 ***No social media, just this little email keeping us connected.***
 
 ---
