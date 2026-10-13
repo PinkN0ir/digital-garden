@@ -21,7 +21,7 @@ tags:
 ***08/20***  ᓚᘏᗢ
 > *"...those who are willing to think differently and act on that indifference go on to make a difference in the world."* 
  
-[[Steve Jobs - Think Differently]]
+[[01 Public/04 Library/Books/Steve Jobs - Think Differently]]
 
 ***08/ 17***  ᓚᘏᗢ
 >"Don't you be afraid  
