@@ -4,8 +4,8 @@ created:
 updated:
 aliases:
 tags:
+title: Discover My Library
 ---
-
 
 ---
 Media, books, sources; they all play a big role in what we believe in. That's why [[consumption should be done intentionally]]; it's important to protect what knowledge we consume. 

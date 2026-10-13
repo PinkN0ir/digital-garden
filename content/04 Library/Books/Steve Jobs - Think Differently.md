@@ -1,7 +1,5 @@
 ---
 cssclasses:
-  - banner
-  - banner-fade
 created: 2026-08-02T12:05:00
 aliases:
   - those who are willing to think differently and act on that indifference go on to make a difference in the world.
@@ -19,9 +17,9 @@ start date: 2026-06-08
 completed: 2026-08-03
 rating: ⭐⭐⭐⭐
 ---
-![[Pasted image 20260802122500.png|banner]]
+![[Steve Jobs - Think Differently.png|banner|350]]
 
-
+---
 
 | Rating | Meaning                                            |
 | ------ | -------------------------------------------------- |

@@ -1,7 +1,5 @@
 ---
 cssclasses:
-  - banner
-  - banner-fade
 created: 2026-08-02T12:05:00
 aliases:
 tags:
@@ -16,7 +14,9 @@ start date:
 completed:
 rating: ⭐⭐⭐⭐⭐
 ---
-![[Pasted image 20260802185139.png|banner]]
+![[Your Not Listening.png|banner|350]]
+
+---
 
 | Rating | Meaning                                            |
 | ------ | -------------------------------------------------- |
