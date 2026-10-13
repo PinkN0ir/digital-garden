@@ -4,7 +4,7 @@ created:
 updated:
 aliases:
 tags:
-draft: "true"
+unlisted: "true"
 ---
 
 ---
