@@ -28,6 +28,10 @@ I dedicate this space to:
 
 ---
 
+(add a visual banner to divide the two sections) 
+
+---
+
 ![[Revisit My Garden Every 14th]]
 
 ---

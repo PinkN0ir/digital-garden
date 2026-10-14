@@ -11,15 +11,12 @@ tags:
 
 > (★‿★) Hi I'm [Jayda Simmons!](https://jaydasimmons.com/)
 
-I'm a writer who strives to understand the possibilities of living life to its fullest potential.
+**Who am I?**
 
-I found a revolutionary thrill in life when I began approaching it intentionally. I truly believe that time is the most valuable asset we have, and my mortality serves as a constant reminder of that belief. [[I think about my last moment here on Earth.|I think about the version of me who has lived every day fully]] I imagine she would tell me to keep going and not look back. She would remind me that [time is ticking](time%20is%20ticking), that it will not pause nor will it wait. Instead, sooner than we all expect, it will tick one last time.
+I am a young writer under the name [[Jayda Simmons]], and I published my children’s book, [[The Ballerina Who Wore Blue]], when I was just 16 years old.
 
-With the time God has given me, I want to contribute to making the world a better place. [[[I think about my last moment here on Earth.|I want my impact to outlive me]]. What that looks like, I don't know, but He knows. He has written a plan for me that my mortal brain cannot fathom; all I can do is believe.
+Although writing was something I had always enjoyed, my relationship with the hobby was never consistent. I, too, fell into the trap of distraction, and what once brought me pure joy as a kid quickly became a distant memory during my high school years.
 
-There is nothing more fulfilling than treating every minute like a moment worth my full attention, because truly, it is.
+[[The Ballerina Who Wore Blue]] was an opportunity I took on simply because it excited me. Despite never having published a book before, the process felt familiar. Everything happened so naturally, almost like reconnecting with an old friend, only this time, that friend was a hobby I had forgotten I loved.
 
-Currently, I have been devoting my time to better understanding the concepts that make up life. I  [[[Annotating Life|annotate every aspect of life]] as if I were a [[student of life|student of it]]. I would do that with the idea of [working with the garage door open](working%20with%20the%20garage%20door%20open), in hopes of sharing the possibilities life has to offer with those who are curious too.
-
-If someone can take one concept away from this whole writing project, it's that [impossible](impossible) is a false narrative. Believing just that has inspired me to make a [[Impossible List|list of all the impossible things]] that I plan to make possible.
-
+Since then, I have learned the importance of being more intentional with how I live. I want to feel as if I am on cloud nine, excited about the life I am creating, rather than simply [[going through the motions]]. I quickly realized that following my curiosity, just as I did when publishing my book, was one way to make that happen.
