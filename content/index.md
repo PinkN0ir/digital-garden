@@ -4,7 +4,7 @@ created: 2026-08-29T12:25:00
 last updated: 2026-08-29T12:26:00
 aliases:
 tags:
-title: " Welcome!"
+title: Welcome!
 ---
 
 ---
@@ -28,7 +28,7 @@ I dedicate this space to:
 
 ---
 
-(add a visual banner to divide the two sections) 
+![[banner (2).png|700]]
 
 ---
 
