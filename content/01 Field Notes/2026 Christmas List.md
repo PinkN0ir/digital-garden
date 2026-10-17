@@ -12,7 +12,7 @@ tags:
 ***What I'm Most Excited About!!***
 *You can find this on Facebook market place or eBay*
 - [ ] A Vintage Digital Camera! (make sure it works and you buy from someone reliable...)
-	- Sony Cybershot
+	- Sony Cyber-shot DSC-T7
 	- Samsung MV800 or Samsung dual view dv150f
 	- ...or something equivalent
 
