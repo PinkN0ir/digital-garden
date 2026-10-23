@@ -27,3 +27,7 @@ But learning never stops at consuming. When we just consume we can easily fall i
 
 ![[Book View.base]]
 
+---
+
+> [!quote] "He was never formally schooled but he has always had that sensibility." - [[01 Public/04 Library/Books/Steve Jobs - Think Differently|Steve Jobs - Think Differently]]
+

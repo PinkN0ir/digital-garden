@@ -7,6 +7,7 @@ tags:
   - stevejobs
   - apple
   - bookreflections
+  - "#todo"
 title: Steve Jobs - Think Differently
 cover: Pasted image 20260802122500.png
 totalPage: 175
@@ -14,8 +15,9 @@ author:
   - Patricia Lakin
 published: 2011-12-20
 start date: 2026-06-08
-completed: 2026-08-03
 rating: ⭐⭐⭐⭐
+status: in-progress
+started: 2026-10-23
 ---
 ![[Steve Jobs - Think Differently.png|banner|350]]
 
