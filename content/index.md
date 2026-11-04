@@ -21,18 +21,11 @@ I dedicate this space to:
 
 ---
 
-![[Stream of Consciousness#Stream of Consciousness]]
-
----
 ![[Updates#Most Recent Update!]]
 
 ---
+### Want to revisit this site?
 
-![[banner (2).png|700]]
+![[Revisit My Garden Every 14th#[→ Sign Up Here ←](https //join.jaydasimmons.com/)]]
 
----
 
-![[Revisit My Garden Every 14th]]
-
----
-> If you run into a 404 page, “no data found,” or something that looks unfinished, I know! It usually just means there’s a private note behind it that I’m still working on making public and easier to explore. 

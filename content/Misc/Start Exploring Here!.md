@@ -26,5 +26,7 @@ tags:
 *Have fun exploring! :)*
 
 ---
+### Want to revisit this site?
 
-![[Revisit My Garden Every 14th]]
+![[Revisit My Garden Every 14th#[→ Sign Up Here ←](https //join.jaydasimmons.com/)]]
+

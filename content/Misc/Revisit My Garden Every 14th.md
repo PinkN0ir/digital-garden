@@ -1,4 +1,4 @@
-***No social media, just this little email keeping us connected.***
+ ***No social media, just this little email keeping us connected.***
 
 ---
 ### Discover what’s growing in my [[digital garden]] without having to keep up with it yourself.

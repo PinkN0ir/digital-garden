@@ -21,4 +21,6 @@ Although writing was something I had always enjoyed, my relationship with the ho
 
 Since then, I have learned the importance of being more intentional with how I live. I want to feel as if I am on cloud nine, excited about the life I am creating, rather than simply going through [[the motions]]. I quickly realized that following my curiosity, just as I did when publishing my book, was one way to make that happen.
 
+---
 
+![[Stream of Consciousness#Stream of Consciousness]]
