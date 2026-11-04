@@ -27,7 +27,6 @@ tags:
 
 ---
 
-| Want to revisit this site?                         | Want to explore this site by topic?          |
-| -------------------------------------------------- | -------------------------------------------- |
-| [→ Sign Up Here ←](https://join.jaydasimmons.com/) | [[Explore This Site By Topic!\|Click Here!]] |
-
+| Want to revisit this site?                         | Want to explore this site by topic?          | Want to go to the main site?            |
+| -------------------------------------------------- | -------------------------------------------- | --------------------------------------- |
+| [→ Sign Up Here ←](https://join.jaydasimmons.com/) | [[Explore This Site By Topic!\|Click Here!]] | [Follow me!](https://jaydasimmons.com/) |
