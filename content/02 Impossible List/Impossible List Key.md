@@ -10,7 +10,7 @@ title: Key - Impossible List
 💡I am thinking about it...
 🧭 It's in the action phase!
 
-**Result** 
+Result** 
 🚫 I tried but it didn't work out... yet.
 🏆I did it!
 

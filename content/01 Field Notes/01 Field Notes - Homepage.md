@@ -48,11 +48,6 @@ const notes = Object.entries(content).filter(([slug]) => {
 Because these notes started off as fleeting ideas, the topics of these notes can range across any category that could have sparked my interest. When I have a [[gut feeling]] that I have to capture the thoughts in my mind, I do just that, no matter the topic. I take a gut feeling as a sign and I run with it. When a fact, quote, or idea sticks out to me, that's my intuition telling me it will later provide value.
 
 ---
-### What is a Digital Garden?
-*If you're new to the world of digital gardening; learn about the practice here!*
-![[What is a Digital Garden.base]]
-
----
 
  ### [[my personal philosophy|My Personal Philosophy Notes]] ←
 

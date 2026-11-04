@@ -24,8 +24,7 @@ I dedicate this space to:
 ![[Updates#Most Recent Update!]]
 
 ---
-### Want to revisit this site?
 
-![[Revisit My Garden Every 14th#[→ Sign Up Here ←](https //join.jaydasimmons.com/)]]
-
-
+| Want to revisit this site?                         | Want to explore this site by topic?          |
+| -------------------------------------------------- | -------------------------------------------- |
+| [→ Sign Up Here ←](https://join.jaydasimmons.com/) | [[Explore This Site By Topic!\|Click Here!]] |
