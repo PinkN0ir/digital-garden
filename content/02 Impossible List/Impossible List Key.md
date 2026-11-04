@@ -1,15 +1,16 @@
-
-
 ---
+title: Key - Impossible List
+---
+
 ### Follow this key to see where I'm at with each dream of mine!
-Idea Phase
+**Idea Phase**
 - [ ] I haven't stared acting towards
 
-Action Phase
+**Action Phase**
 💡I am thinking about it...
 🧭 It's in the action phase!
 
-Result 
+**Result** 
 🚫 I tried but it didn't work out... yet.
 🏆I did it!
 
