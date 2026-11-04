@@ -1,0 +1,7 @@
+views:
+  - type: cards
+    name: cards
+    filters:
+      and:
+        - file.tags.contains("#biblicalworldview")
+    cardSize: 600
