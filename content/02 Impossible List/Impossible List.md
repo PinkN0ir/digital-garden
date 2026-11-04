@@ -84,31 +84,31 @@ This unsettling picture in my head is my why. Why I chase my dreams and don't wa
 - [ ] **Bible Completion**
   *Read the entire Bible from beginning to end.*
 
-- [B] **Book Collector**
+- [ ] **Book Collector**
   *Read and annotate 100 books.*
 
 - [ ] **Fluent in ASL**
   *Learn sign language well enough to communicate confidently.*
 
-- [?] **Coding Creator**
+- [ ] **Coding Creator**
   *Learn how to code and build something functional from scratch.*
 
 ---
 ### Personal Growth
 
-- [?] **Tone Strength**
+- [ ] **Tone Strength**
   *Become toned, strong, and physically healthy.*
 
 - [ ] **Sugar Discipline**
   *Go one full month without sugar or heavy carbs.*
 
-- [B] **Social Detox**
+- [ ] **Social Detox**
   *Stay off social media for an entire year.*
 
 - [ ] **Baptism Day**
   *Get baptized in nature, like a river, ocean, or lake.*
 
-- [?] **Church Community**
+- [ ] **Church Community**
   *Become actively involved in a church community.*
 
 - [ ] **Have a Mentor**
@@ -176,6 +176,6 @@ This unsettling picture in my head is my why. Why I chase my dreams and don't wa
 - [ ] **Pain au Chocolat**
   *Eat a croissant or pain au chocolat and watch Miraculous in Paris.*
 
-- [?] **Vintage Camera**
+- [ ] **Vintage Camera**
   *Own a vintage digital camera or camcorder for documenting life, creativity, and travel.*
 
