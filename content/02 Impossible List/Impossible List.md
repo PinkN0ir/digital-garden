@@ -176,6 +176,6 @@ This unsettling picture in my head is my why. Why I chase my dreams and don't wa
 - [ ] **Pain au Chocolat**
   *Eat a croissant or pain au chocolat and watch Miraculous in Paris.*
 
-- [ ] **Vintage Camera**
+- [?] **Vintage Camera**
   *Own a vintage digital camera or camcorder for documenting life, creativity, and travel.*
 
