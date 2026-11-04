@@ -1,9 +1,7 @@
 
 
 ---
-
 ### Follow this key to see where I'm at with each dream of mine!
-
 #### Idea Phase
 - [ ] I haven't stared acting towards
 #### Action Phase
