@@ -17,3 +17,11 @@ These notes make up my ever-growing [[personal philosophy]].  They are usually 
 ![[Death is Motivation.base]]
 
 
+---
+
+### Biblical Worldview
+*The framework for life built on the conviction that Jesus is God.*
+
+![[Biblical Worldview.base]]
+
+---

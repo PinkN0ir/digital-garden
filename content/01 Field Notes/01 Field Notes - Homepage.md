@@ -53,11 +53,6 @@ Because these notes started off as fleeting ideas, the topics of these notes can
 ![[What is a Digital Garden.base]]
 
 ---
-### Bible Study Notes
-*These are the life lessons that God has taught me!*
-![[Bible Study Notes.base]]
-
----
 
  ### [[my personal philosophy|My Personal Philosophy Notes]] ←
 
