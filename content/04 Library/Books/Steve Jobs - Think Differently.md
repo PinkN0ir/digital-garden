@@ -16,7 +16,7 @@ author:
 published: 2011-12-20
 start date: 2026-06-08
 rating: ⭐⭐⭐⭐
-status: in-progress
+status: todo
 started: 2026-10-23
 ---
 ![[Steve Jobs - Think Differently.png|banner|350]]

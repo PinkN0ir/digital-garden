@@ -4,8 +4,9 @@ created:
 aliases:
 tags:
   - "#todo"
-status: in-progress
+status: done
 started: 2026-10-25
+completed: 2026-11-04
 ---
 ---
 
